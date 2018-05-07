@@ -120,3 +120,8 @@ a:focus {
   margin-bottom: 0;
 }
 
+.main-wrapper {
+  background: #fff;
+  padding: 60px;
+  padding-right: 300px;
+}
